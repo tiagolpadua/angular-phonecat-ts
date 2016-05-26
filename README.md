@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/tiagolpadua/angular-phonecat-ts.svg?branch=master)](https://travis-ci.org/tiagolpadua/angular-phonecat-ts)
-<!---
+
 # angular-phonecat-ts
 Angular Phonecat project refactored to TypeScript.
 
+<!---
 # A(nother) Best Practices Seed for AngularJS Apps 
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app. 
