@@ -3,6 +3,7 @@
 # angular-phonecat-ts
 Angular Phonecat project refactored to TypeScript.
 
+
 <!---
 # A(nother) Best Practices Seed for AngularJS Apps 
 
