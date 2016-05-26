@@ -3,6 +3,7 @@
 # angular-phonecat-ts
 Angular Phonecat project refactored to TypeScript.
 
+This projects aims to be a simple yet usefull fork of the Angular Phonecat project using TypeScript
 
 <!---
 # A(nother) Best Practices Seed for AngularJS Apps 
